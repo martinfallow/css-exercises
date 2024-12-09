@@ -1,0 +1,18 @@
+.red-background {
+    background-color: #ff000088;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+#second {
+    background-color: #008000;
+    font-size: 24px;
+    color: black;
+}
